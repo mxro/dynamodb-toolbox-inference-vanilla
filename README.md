@@ -1,0 +1,1 @@
+# dynamodb-toolbox-inference-vanilla
