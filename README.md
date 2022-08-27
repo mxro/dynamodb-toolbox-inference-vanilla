@@ -5,5 +5,5 @@ Testing a vanilla project for DynamoDB Toolbox [#261](https://github.com/jeremyd
 ## Setup
 
 - Clone project
-- Run `npm`
+- Run `npm i`
 - Check type inference in `src/app.ts` and `src/test.spec.ts`
